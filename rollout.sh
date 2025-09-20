@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Read the README.md for info on setting up these variables
+
 if [ -z ${PLUGIN_NAMESPACE} ]; then
   PLUGIN_NAMESPACE="default"
 fi
